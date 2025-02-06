@@ -1,0 +1,76 @@
+{
+    "Afghanistan": [
+        "Badakhshan", "Badghis", "Baghlan", "Balkh", "Bamyan", "Daykundi", 
+        "Farah", "Faryab", "Ghazni", "Ghor", "Helmand", "Herat", "Jowzjan", 
+        "Kabul", "Kandahar", "Kapisa", "Khost", "Kunar", "Kunduz", "Laghman", 
+        "Logar", "Nangarhar", "Nimruz", "Nuristan", "Paktia", "Paktika", 
+        "Panjshir", "Parwan", "Samangan", "Sar-e Pol", "Takhar", "Urozgan", 
+        "Wardak", "Zabul"
+    ],
+    "Albania": [
+        "Berat", "Dibër", "Durrës", "Elbasan", "Fier", "Gjirokastër", 
+        "Korçë", "Kukës", "Lezhë", "Shkodër", "Tirana", "Vlorë"
+    ],
+    "Algeria": [
+        "Adrar", "Aïn Defla", "Aïn Témouchent", "Algiers", "Annaba", 
+        "Batna", "Béchar", "Béjaïa", "Biskra", "Blida", "Bordj Bou Arréridj", 
+        "Bouira", "Boumerdès", "Chlef", "Constantine", "Djelfa", "El Bayadh", 
+        "El Oued", "El Tarf", "Ghardaïa", "Guelma", "Illizi", "Jijel", 
+        "Khenchela", "Laghouat", "Mascara", "Médéa", "Mila", "Mostaganem", 
+        "M'Sila", "Naâma", "Oran", "Ouargla", "Oum El Bouaghi", "Relizane", 
+        "Saïda", "Sétif", "Sidi Bel Abbès", "Skikda", "Souk Ahras", "Tamanghasset", 
+        "Tébessa", "Tiaret", "Tindouf", "Tipaza", "Tissemsilt", "Tizi Ouzou", 
+        "Tlemcen"
+    ],
+    "Andorra": [
+        "Canillo", "Encamp", "Escaldes-Engordany", "La Massana", 
+        "Ordino", "Sant Julià de Lòria", "Andorra la Vella"
+    ],
+    "Angola": [
+        "Bengo", "Benguela", "Bié", "Cabinda", "Cuando Cubango", "Cuanza Norte", 
+        "Cuanza Sul", "Cunene", "Huambo", "Huíla", "Luanda", "Lunda Norte", 
+        "Lunda Sul", "Malanje", "Moxico", "Namibe", "Uíge", "Zaire"
+    ],
+    "Antigua and Barbuda": [
+        "Saint George", "Saint John", "Saint Mary", "Saint Paul", 
+        "Saint Peter", "Saint Philip", "Barbuda", "Redonda"
+    ],
+    "Argentina": [
+        "Buenos Aires", "Catamarca", "Chaco", "Chubut", "Ciudad Autónoma de Buenos Aires", 
+        "Córdoba", "Corrientes", "Entre Ríos", "Formosa", "Jujuy", "La Pampa", 
+        "La Rioja", "Mendoza", "Misiones", "Neuquén", "Río Negro", "Salta", 
+        "San Juan", "San Luis", "Santa Cruz", "Santa Fe", "Santiago del Estero", 
+        "Tierra del Fuego", "Tucumán"
+    ],
+    "Armenia": [
+        "Aragatsotn", "Ararat", "Armavir", "Gegharkunik", "Kotayk", 
+        "Lori", "Shirak", "Syunik", "Tavush", "Vayots Dzor", "Yerevan"
+    ],
+    "Australia": [
+        "Australian Capital Territory", "New South Wales", 
+        "Northern Territory", "Queensland", "South Australia", 
+        "Tasmania", "Victoria", "Western Australia",
+        "Ashmore and Cartier Islands", "Christmas Island", 
+        "Cocos (Keeling) Islands", "Coral Sea Islands", 
+        "Heard Island and McDonald Islands", "Norfolk Island"
+    ],
+    "Austria": [
+        "Burgenland", "Carinthia", "Lower Austria", "Salzburg", 
+        "Styria", "Tyrol", "Upper Austria", "Vienna", "Vorarlberg"
+    ],
+    "Azerbaijan": [
+        "Absheron", "Agdam", "Agdash", "Aghjabadi", "Agstafa", "Agsu", 
+        "Astara", "Baku", "Balakan", "Barda", "Beylagan", "Bilasuvar", 
+        "Dashkasan", "Fuzuli", "Gadabay", "Ganja", "Goychay", "Goygol", 
+        "Hajigabul", "Imishli", "Ismayilli", "Jabrayil", "Jalilabad", 
+        "Kalbajar", "Khachmaz", "Khizi", "Khojaly", "Khojavend", "Kurdamir", 
+        "Lachin", "Lankaran", "Lerik", "Masally", "Mingachevir", "Naftalan", 
+        "Nakhchivan", "Neftchala", "Oghuz", "Qabala", "Qakh", "Qazakh", 
+        "Quba", "Qubadli", "Qusar", "Saatly", "Sabirabad", "Salyan", 
+        "Samukh", "Shabran", "Shahbuz", "Shaki", "Shamakhi", "Shamkir", 
+        "Sharur", "Shirvan", "Siazan", "Sumqayit", "Tartar", "Tovuz", 
+        "Ujar", "Yardimli", "Yevlakh", "Zangilan", "Zaqatala", "Zardab"
+    ]
+  
+  }
+  
