@@ -1,3 +1,8 @@
+/*
+Some entries (such as for smaller countries or territories) are represented as empty arrays if subdivision data isn’t widely defined or available. 
+This file is intended as a starting point, and you can later update it with additional details from the source and other verified references.
+*/
+
 {
   "A": {
     "Afghanistan": [
